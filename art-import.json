@@ -1,0 +1,198 @@
+{
+       "stock": 0,
+       "productNumber": "{artnumb}",
+       "name": "{artname}",
+       "taxId": "15c0bb9029a845cda7104cf707999dd9",
+       "manufacturerId": "e31fe228f4b042c1ac2ef61143aa5fb3",
+       "price": [
+          {
+             "currencyId": "b7d2554b0ce847cd82f3ac9bd1c0dfca",
+             "net": {pricenet},
+             "gross": {pricebrut},
+             "linked": true
+          }
+       ],
+       "visibilities": [
+        {
+           "id": null,
+           "salesChannelId": "6d8478bd752d4c17a19ad3f7e6af851a",
+           "visibility": 30
+        }
+      ],
+       "children": [
+          {
+             "productNumber": "{artnumb}-99",
+             "stock": 0,
+             "options": [
+                {
+                   "id": "31814c89f6e94b2d99986ad1363dce78"
+                }
+             ]
+          },
+          {
+             "productNumber": "{artnumb}-22",
+             "stock": 0,
+             "price": [
+                {
+                   "currencyId": "b7d2554b0ce847cd82f3ac9bd1c0dfca",
+                   "net": {pricenet_22},
+                   "gross": {pricebrut_22},
+                   "linked": true
+                }
+             ],
+             "options": [
+                {
+                   "id": "fd08f8b6596746129d3fef75eb366389"
+                }
+             ]
+          },
+          {
+             "productNumber": "{artnumb}-85",
+             "stock": 0,
+             "price": [
+                {
+                   "currencyId": "b7d2554b0ce847cd82f3ac9bd1c0dfca",
+                   "net": {pricenet_85},
+                   "gross": {pricebrut_85},
+                   "linked": true
+                }
+             ],
+             "options": [
+                {
+                   "id": "73567c14a5724e5ca253385d56ee9c88"
+                }
+             ]
+          },
+  {
+     "productNumber": "{artnumb}-48",
+     "stock": 0,
+     "price": [
+        {
+           "currencyId": "b7d2554b0ce847cd82f3ac9bd1c0dfca",
+           "net": {pricenet_48},
+           "gross": {pricebrut_48},
+           "linked": true
+        }
+     ],
+     "options": [
+        {
+           "id": "cc478939f5f64f2dbfe6d33ae0895b23"
+        }
+     ]
+  },
+  {
+     "productNumber": "{artnumb}-80",
+     "stock": 0,
+     "price": [
+        {
+           "currencyId": "b7d2554b0ce847cd82f3ac9bd1c0dfca",
+           "net": {pricenet_80},
+           "gross": {pricebrut_80},
+           "linked": true
+        }
+     ],
+     "options": [
+        {
+           "id": "6da09445b5ef419a8e5b98d0ae3da17b"
+        }
+     ]
+  },
+  {
+     "productNumber": "{artnumb}-68",
+     "stock": 0,
+     "price": [
+        {
+           "currencyId": "b7d2554b0ce847cd82f3ac9bd1c0dfca",
+           "net": {pricenet_68},
+           "gross": {pricebrut_68},
+           "linked": true
+        }
+     ],
+     "options": [
+        {
+           "id": "f63285d3f23f441c993a2f2aab499082"
+        }
+     ]
+  },
+  {
+     "productNumber": "{artnumb}-50",
+     "stock": 0,
+     "price": [
+        {
+           "currencyId": "b7d2554b0ce847cd82f3ac9bd1c0dfca",
+           "net": {pricenet_50},
+           "gross": {pricebrut_50},
+           "linked": true
+        }
+     ],
+     "options": [
+        {
+           "id": "5503ef20a7424bc58facdac2b8ca6ac5"
+        }
+     ]
+  },
+  {
+     "productNumber": "{artnumb}-77",
+     "stock": 0,
+     "price": [
+        {
+           "currencyId": "b7d2554b0ce847cd82f3ac9bd1c0dfca",
+           "net": {pricenet_77},
+           "gross": {pricebrut_77},
+           "linked": true
+        }
+     ],
+     "options": [
+        {
+           "id": "24da21ac840d4abbb358d01bb03ad74c"
+        }
+     ]
+  },
+  {
+     "productNumber": "{artnumb}-91",
+     "stock": 0,
+     "price": [
+        {
+           "currencyId": "b7d2554b0ce847cd82f3ac9bd1c0dfca",
+           "net": {pricenet_91},
+           "gross": {pricebrut_91},
+           "linked": true
+        }
+     ],
+     "options": [
+        {
+           "id": "a300f872a68f4f93b1af3d6e1c50e397"
+        }
+     ]
+  }
+],
+       "configuratorSettings": [
+  {
+     "optionId": "31814c89f6e94b2d99986ad1363dce78"
+  },
+  {
+     "optionId": "fd08f8b6596746129d3fef75eb366389"
+  },
+  {
+     "optionId": "73567c14a5724e5ca253385d56ee9c88"
+  },
+  {
+     "optionId": "cc478939f5f64f2dbfe6d33ae0895b23"
+  },
+  {
+     "optionId": "6da09445b5ef419a8e5b98d0ae3da17b"
+  },
+  {
+     "optionId": "f63285d3f23f441c993a2f2aab499082"
+  },
+  {
+     "optionId": "5503ef20a7424bc58facdac2b8ca6ac5"
+  },
+  {
+     "optionId": "24da21ac840d4abbb358d01bb03ad74c"
+  },
+  {
+     "optionId": "a300f872a68f4f93b1af3d6e1c50e397"
+  }
+]
+}

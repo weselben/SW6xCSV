@@ -1,0 +1,22 @@
+{
+  "stock": 0,
+  "productNumber": "{artnumb}",
+  "name": "{artname}",
+  "taxId": "15c0bb9029a845cda7104cf707999dd9",
+  "manufacturerId": "e31fe228f4b042c1ac2ef61143aa5fb3",
+  "price": [
+    {
+      "currencyId": "b7d2554b0ce847cd82f3ac9bd1c0dfca",
+      "net": {pricenet},
+      "gross": {pricebrut},
+      "linked": true
+    }
+  ],
+  "visibilities": [
+        {
+           "id": null,
+           "salesChannelId": "6d8478bd752d4c17a19ad3f7e6af851a",
+           "visibility": 30
+        }
+      ]
+}

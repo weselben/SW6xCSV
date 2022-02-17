@@ -1,0 +1,2 @@
+clientid = "cid"
+clientsecret = "csecret"
